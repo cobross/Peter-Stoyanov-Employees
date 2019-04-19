@@ -1,0 +1,9 @@
+c:\users\wewewewe\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\wewewewe\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
